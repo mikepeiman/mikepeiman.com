@@ -2,7 +2,7 @@
 title: Simple Guides for mikepeiman
 published: 2024-04-01
 description: "How to use this blog template."
-image: "./cover.jpeg"
+image: "./dall-e3-mosaic-bento-bg-16.jpeg"
 tags: ["mikepeiman", "Blogging", "Customization"]
 category: Guides
 draft: false
@@ -19,7 +19,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 title: My First Blog Post
 published: 2023-09-09
 description: This is the first post of my new Astro blog.
-image: ./cover.jpg
+image: ./dall-e3-mosaic-bento-bg-16.jpg
 tags: [Foo, Bar]
 category: Front-end
 draft: false
