@@ -41,7 +41,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/20170508_115051_HDR.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'It\'s me, Mike Peiman',
   bio: 'A single father, indie creator, and indie thinker.',
   links: [
