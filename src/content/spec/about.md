@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [mikepeiman](https://github.com/mikepeiman/mikepeiman.com).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="mikepeiman/mikepeiman.com"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
